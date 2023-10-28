@@ -86,6 +86,7 @@ Para participar en este taller, sigue estos pasos:
 - [Cheat Sheet de p5.js](/recursos/p5js-cheatsheet.png)
 - [Tutoriales oficiales](https://p5js.org/es/learn/)
 - [Generative Academy](https://www.instagram.com/generative.academy/)
+- [Lista de Artistas]()
 
 ¡Esperamos verte en el taller! ✨
 
