@@ -1,29 +1,29 @@
 # Introducción a la Programación Creativa con p5.js
 
-Bienvenido al taller **Introducción a la Programación Creativa con p5.js**. En este taller de 2 horas, exploraremos los fundamentos de la programación en JavaScript para crear dibujos interactivos.
+Bienvenido al taller **Introducción a la Programación Creativa con p5.js**. En este respositorio encontrarás toda la información y recursos relacionados a esta actividad.
 
-<img src="recursos/portada.png" alt="p5.js Logo" title="p5.js" width="600"/>
+<img src="recursos/portada.png" alt="p5.js Logo" title="p5.js" width="700"/>
 
-## 🔍 Información del Taller
+## 🔍 Información
 
 - **Duración:** 2 horas
 - **Fecha y Hora:** 15 de Noviembre de 2023, 18:00 - 20:00
 - **Lugar:** [Facultad de Artes, Universidad de Chile](https://maps.app.goo.gl/jWLTspcBS5QZggna6). Compañía 1264, Santiago de Chile. Sala Experimental (Segundo Piso)
 - **Instructor:** [Patricio Céspedes](https://patricio-isaias.super.site/), Licenciado en Artes mención Composición Musical
+- **Nivel:** Principiantes, no se requieren conocimientos previos de programación
 - **Coste:** Actividad gratuita con inscripción previa
 
-## 🎯 Objetivo del Taller
+## 🎯 Objetivo
 
-El objetivo de este taller es introducirte a las posibilidades de la programación para dar vida a tus ideas creativas. Ya seas un artista, diseñador o simplemente alguien interesado en la intersección entre el arte y la tecnología esta actividad está diseñada para ti. Al final del taller, estarás familiarizado con las herramientas básicas de p5.js y habrás completado un proyecto práctico que podrás compartir en la web.
+El objetivo de este taller es introducirte a las posibilidades de la programación para dar vida a tus ideas creativas. Ya seas artista, diseñador o simplemente alguien interesado en la intersección entre el arte y la tecnología esta actividad está diseñada para ti. Al final del taller, estarás familiarizado con las herramientas básicas de p5.js y habrás completado un proyecto práctico que podrás compartir en la web.
 
-## 📋 Requisitos
+## 💻 Materiales
 
-- **Dispositivo:** Laptop con conexión a Internet.
-- **Navegador Web:** Se recomienda [Google Chrome](https://www.google.com/intl/es_es/chrome/).
-- **Editor de Código:** Se recomienda [Visual Studio Code](https://code.visualstudio.com/), pero cualquier editor de código es acceptable.
-- **Nivel:** Principiantes, no se requieren conocimientos previos de programación.
+- Laptop con conexión a Internet
+- Navegador web: Se recomienda [Google Chrome](https://www.google.com/intl/es_es/chrome/)
+- Editor de Código: [Visual Studio Code](https://code.visualstudio.com/) con la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-_Nota: Asegúrate de tener [Google Chrome](https://www.google.com/intl/es_es/chrome/) instalado y tu editor de código configurado antes del taller._
+_Nota: Asegúrate de tener Google Chrome instalado y Visual Studio Code con la extensión Live Server configurada antes del taller._
 
 ## 📝 Inscripción
 
