@@ -77,7 +77,6 @@ Si tienes alguna pregunta adicional, no dudes en ponerte en contacto con nosotro
 ## 📚 Recursos
 
 - [Cheat Sheet de p5.js](/recursos/p5js-cheatsheet.png)
-- [PDF del Taller]()
 - [Tutoriales oficiales](https://p5js.org/es/learn/)
 - [Generative Academy](https://www.instagram.com/generative.academy/)
 
