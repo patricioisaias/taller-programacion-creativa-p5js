@@ -1,27 +1,24 @@
 # Introducción a la Programación Creativa con p5.js
 
-Bienvenido al taller **Introducción a la Programación Creativa con p5.js**. En este respositorio encontrarás toda la información y recursos relacionados a esta actividad.
+Bienvenido/a al taller **Introducción a la Programación Creativa con p5.js**. En este respositorio encontrarás toda la información y recursos relacionados a esta actividad.
 
 <img src="recursos/portada.png" alt="p5.js Logo" title="p5.js" width="700"/>
 
 ## 🔍 Información
 
 - **Duración:** 2 horas
-- **Fecha y Hora:** 15 de Noviembre de 2023, 18:00 - 20:00
-- **Lugar:** [Facultad de Artes, Universidad de Chile](https://maps.app.goo.gl/jWLTspcBS5QZggna6). Compañía 1264, Santiago de Chile. Sala Experimental (Segundo Piso)
-- **Instructor:** [Patricio Céspedes](https://patricio-isaias.super.site/), Licenciado en Artes mención Composición Musical
-- **Nivel:** Principiantes, no se requieren conocimientos previos de programación
-- **Coste:** Actividad gratuita con inscripción previa
+- **Fecha, hora, lugar y coste:** Revisar nuestras redes en [Generative Academy](https://www.instagram.com/generative.academy/)
+- **Instructor:** [Patricio Céspedes](https://patricio-isaias.super.site/), Artista Multimedia, Licenciado en Artes mención Composición Musical
 
 ## 🎯 Objetivo
 
-El objetivo de este taller es introducirte a las posibilidades de la programación para dar vida a tus ideas creativas. Ya seas artista, diseñador o simplemente alguien interesado en la intersección entre el arte y la tecnología esta actividad está diseñada para ti. Al final del taller, estarás familiarizado con las herramientas básicas de p5.js y habrás completado un proyecto práctico que podrás compartir en la web.
+El objetivo de este taller es introducirte a las posibilidades de la programación para dar vida a tus ideas creativas. Ya seas artista, diseñador o simplemente alguien interesado en la intersección entre el arte y la tecnología, esta actividad está diseñada para ti. En el camino, repasaremos los fundamentos de la programación, como variables, funciones, condicionales y la incorporación de aleatoriedad. Al final de este taller, estarás familiarizado con las funciones básicas de p5.js y habrás completado un dibujo generativo interactivo que podrás compartir en la web.
 
 ## 💻 Materiales
 
-- Laptop con conexión a Internet
+- Laptop (Windows, macOS, Linux) con conexión a Internet
 - Navegador web: Se recomienda [Google Chrome](https://www.google.com/intl/es_es/chrome/)
-- Editor de Código: [Visual Studio Code](https://code.visualstudio.com/) con la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+- Editor de Código (Opcional): [Visual Studio Code](https://code.visualstudio.com/) con la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 _Nota: Asegúrate de tener Google Chrome instalado y Visual Studio Code con la extensión Live Server configurada antes del taller._
 
@@ -37,32 +34,35 @@ Si tienes alguna pregunta adicional, no dudes en ponerte en contacto con nosotro
 
 ## 📖 Programa
 
-### Parte 1: Introducción a p5.js y Conceptos Básicos
+### Parte 1: Introducción a p5.js
 
 #### Introducción al Taller (15 minutos)
 
 - Presentación del instructor y sus proyectos.
-- La programación creativa en el arte y diseño contemporáneo.
-- Casos de estudio: artistas y proyectos destacados.
+- ¿Qué es la programación creativa?
+- Casos de estudio (artistas y proyectos destacados).
 
-#### Introducción a p5.js (30 minutos)
+#### Trabajando con p5.js (45 minutos)
 
-- Breve historia de p5.js como herramienta para aprender programación.
-- Demostración del editor en línea y la interfaz de p5.js.
+- ¿Qué es p5.js? (breve historia y contexto).
+- Demostración del editor en línea y documentación.
 - Configuración del entorno de desarrollo en Visual Studio Code.
-- Práctica guiada: Creación de un dibujo utilizando funciones básicas de p5.js (setup(), draw(), formas básicas, colores e interacción con mouse y teclado).
-- Fundamentos de condicionales (if, else) y bucles (for, while).
+- Creación de un dibujo utilizando las siguientes funciones básicas de p5.js: `setup()` `draw()` `createCanvas()` `background()` `point()` `line()` `ellipse()` `rect()` `fill()` `stroke()` `map()` y `random()`.
+- Interacción básica con: `mouseX` `mouseY` `frameCount`.
+- En el camino iremos hablando sobre: **tipos de datos**, **variables**, **funciones** y **condicionales**.
 
 #### ☕ Receso (10 minutos)
 
 ### Parte 2: Proyecto Práctico
 
-#### Dibujo Interactivo con Condicionales y Loops (40 minutos)
+#### Dibujo Interactivo con Condicionales y Loops (30 minutos)
 
+- Fundamentos de condicionales `if, else` y bucles `for, while`.
+- Interacción con `keyPressed`.
 - Creación de un dibujo interactivo con temática libre por parte de los participantes.
 - Tiempo dedicado a la creación guiada y apoyo individual.
 
-#### Revisión del Proyecto Práctico (15 minutos)
+#### Revisión del Proyecto Práctico (10 minutos)
 
 - Revisión y discusión de los proyectos realizados por los participantes.
 - Instrucciones sobre cómo compartir un sketch de p5.js en línea.
