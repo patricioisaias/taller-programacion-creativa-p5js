@@ -6,13 +6,15 @@
 
 ## 🔍 Información del Taller
 
-- **Duración:** 2 horas
-- **Próxima Sesión:** La fecha, hora, lugar y coste de cada iteración del taller son variables y pueden cambiar en cada versión. Por favor, visita nuestras redes sociales para conocer los detalles más recientes sobre la próxima sesión.
+- **Duración:** 2 horas (Incluye un receso de 10 minutos ☕)
+- **Próxima Sesión:** La fecha, hora, lugar y coste de cada iteración del taller son variables. Visita [Generative Academy](https://www.instagram.com/generative.academy/) para conocer los detalles sobre la próxima sesión.
 - **Instructor:** [Patricio Céspedes](https://patricio-isaias.super.site/), Artista Multimedia y Licenciado en Artes mención Composición Musical
+- **Requisitos:** Ser mayor de edad (+18 años)
+- **Nivel**: Principiantes, no se requieren conocimientos previos en programación.
 
 ## 🎯 Objetivo
 
-Este taller tiene por objetivo ofrecer una introducción práctica a la programación creativa utilizando p5.js. Diseñado para artistas, diseñadores y estudiantes interesados en explorar la intersección entre el arte y la tecnología, el taller cubre conceptos fundamentales como variables, funciones, condicionales y aleatoriedad. Al finalizar, los participantes habrán creado una serie de dibujos generativos e interactivos los cuales podrán compartir en línea.
+Este taller tiene por objetivo proporcionar una introducción práctica a la programación creativa utilizando p5.js. Dirigido a artistas y diseñadores, el taller aborda conceptos fundamentales como variables, funciones, condicionales y aleatoriedad. Al finalizar, los participantes habrán creado una serie de dibujos generativos e interactivos que podrán compartir en línea.
 
 ## 💻 Materiales Necesarios
 
