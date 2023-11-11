@@ -50,8 +50,8 @@ _Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto co
 - **Creación Práctica**
   - Guía paso a paso para la creación de dibujos básicos utilizando las funciones fundamentales: `setup()`, `draw()`, `createCanvas()`, `background()`, `point()`, `line()`, `ellipse()`, `rect()`, `fill()`, `stroke()`, `map()` y `random()`.
   - Implementación de interactividad básica con: `mouseX`, `mouseY` y `frameCount`.
-- **Conceptos Esenciales**
-  - Explicación de conceptos clave como **tipos de datos**, **variables**, **funciones** y **condicionales**.
+- **Revisión de Conceptos Fundamentales**
+  - Explicación de conceptos: **tipos de datos**, **variables**, **funciones**, **condicionales** y **loops**.
 
 #### ☕ Receso (10 minutos)
 
@@ -76,6 +76,7 @@ _Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto co
 
 - [Cheat Sheet de p5.js](/recursos/p5js-cheatsheet.png)
 - [Tutoriales oficiales](https://p5js.org/es/learn/)
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 - [Generative Academy](https://www.instagram.com/generative.academy/)
 
 ¡Esperamos verte en el taller! ✨

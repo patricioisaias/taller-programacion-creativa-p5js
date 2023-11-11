@@ -55,16 +55,16 @@ function poligono(x, y, radius, sides = 3, angle = 0) {
 ```js
 let edad = 28; // Numéro
 let nombre = "Patricio"; // String
-let frutas = [🍎, 🍍, 🍉]; // Array
+let frutas = ["🍎", "🍍", "🍉"]; // Array
 let esAzul = true; // Booleano
-const PI = 3,1416; // Constante
+const PI = 3.1416; // Constante
 
 // Valores Falsy
 let x = 0;
 let vacia = "";
 let vacio = null;
-let noExiste = undefined
-NaN // Not a number
+let noExiste = undefined;
+NaN; // Not a number
 ```
 
 ## Funciones
@@ -113,5 +113,19 @@ function trianguloVerde(x, y, size) {
     x + size / 2,
     y + size / 2
   );
+}
+```
+
+## Puntero personalizado
+
+```js
+function puntero() {
+  noStroke();
+  fill("white");
+  ellipse(mouseX, mouseY, 10, 10);
+
+  // Mostrar coordenadas del puntero
+  textSize(20);
+  text(`x: ${mouseX} y: ${mouseY}`, mouseX + 10, mouseY + 20);
 }
 ```
