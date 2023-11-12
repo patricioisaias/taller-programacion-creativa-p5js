@@ -19,9 +19,9 @@ Este taller tiene como propósito ofrecer una introducción práctica a la progr
 
 - Laptop (Windows, macOS, Linux) con conexión a Internet
 - Navegador web: Se recomienda [Google Chrome](https://www.google.com/intl/es_es/chrome/)
-- Editor de Código (Opcional): [Visual Studio Code](https://code.visualstudio.com/) con la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+- Editor de Código (Opcional): [Visual Studio Code](https://code.visualstudio.com/) con la extensiones [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) y [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).
 
-_Nota: Asegúrate de tener Google Chrome instalado y Visual Studio Code con la extensión Live Server configurada antes del taller._
+_Nota: Asegúrate de tener Google Chrome instalado y Visual Studio Code con la extensiones configuradas antes del taller._
 
 ## 📝 Inscripción
 
