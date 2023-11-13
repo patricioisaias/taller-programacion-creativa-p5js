@@ -5,7 +5,7 @@
 En cada sketch de p5.js hay una función `setup` y `draw`.
 
 ```js
-// Crear un nuevo lienzo y configuración inicial
+// Crea un nuevo lienzo y configuración inicial
 function setup() {
   createCanvas(400, 400); // Tamaño inicial del lienzo
 }
@@ -128,4 +128,29 @@ function puntero() {
   textSize(20);
   text(`x: ${mouseX} y: ${mouseY}`, mouseX + 10, mouseY + 20);
 }
+```
+
+## Velocidad del movimiento del mouse
+
+```js
+let velocidad = abs(mouseX - pmouseX) + abs(mouseY - pmouseY);
+```
+
+## Distancia entre la posición actual y anterior del mouse
+
+```js
+const distancia = dist(mouseX, mouseY, pmouseX, pmouseY);
+```
+
+## Punto medio entre la posición actual y anterior del mouse
+
+```js
+const midX = (mouseX + pmouseX) / 2;
+const midY = (mouseY + pmouseY) / 2;
+```
+
+## Calcular el ángulo de la dirección en la que se mueve el ratón
+
+```js
+const angulo = Math.atan2(mouseY - pmouseY, mouseX - pmouseX);
 ```
